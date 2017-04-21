@@ -1,0 +1,16 @@
+# Simple Calculator
+This project is a simple calculator. It can add, subtract, multiply, divide(not by zero), and perform modulo.
+
+--- Compile / Execution ---
+Using MIT.GNU Scheme running under GNU/Linux
+
+Enter the scheme interpreter: 
+$ scheme
+
+Load file:
+=> (load "calculator.scm")
+
+Run the function:
+=> (calculator)
+
+Follow the prompts.
