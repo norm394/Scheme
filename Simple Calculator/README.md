@@ -1,4 +1,4 @@
-Simple Calculator
+#Simple Calculator
 
 This project is a simple calculator. It can add, subtract, multiply, divide(not by zero), and perform modulo.
 
